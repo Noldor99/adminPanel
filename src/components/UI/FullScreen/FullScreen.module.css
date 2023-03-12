@@ -1,0 +1,17 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("./Demon.jpg");
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  height: 104%;
+}
